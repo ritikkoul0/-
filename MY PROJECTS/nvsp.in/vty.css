@@ -1,0 +1,145 @@
+*{font-style:normal;}
+.one{
+  background-color:black;
+  width:absolute;
+  height:120px;
+}
+.img{
+  height:120px;
+  width:140px;
+}
+.img1{
+  height:120px;
+  width:140px;
+  position:absolute;
+  right:50px;
+}
+
+.two{
+ color:white;
+ margin:0 0 0 178px;
+}
+.tw{
+ color:white;;
+ margin:-108 0 0 178px;
+}
+.th{
+ color:white;;
+ margin:-83 0 0 469px;
+}
+.three{
+ color:white;
+ margin:0 0 0 469px;
+}
+.fo{
+  margin:35 0 0 0px;
+  height:30px;
+  width:35px;
+  background-color:#007bff;
+  border-radius:8px;
+}
+.fou
+{margin:-25 0 0 98px;
+}
+.four
+{margin:-19 0 0 240px;
+border-radius:8px;
+background-color:#dcdcdc;
+}
+.five
+{right:100px;
+left:100px;
+ height:absolute;
+ position:absolute;
+ background-color:#dcdcdc;
+}
+.fiv{
+  margin:-17 0 0 0px;
+}
+.fi{
+background-color:#ff6347;
+}
+.si
+{margin:-25 0 0 204px;
+ height:30px;
+width:80px;
+background-color: #6c757d;
+border-radius:8px;}
+.six{
+  margin:0 0 0 144px;
+}
+.se{
+  margin:-26 0 0 372px;
+}
+.sev
+{margin:-26 0 0 451px;
+ height:30px;
+width:80px;
+background-color: #6c757d;
+border-radius:8px;}
+
+.ei{
+  margin:30 0 0 144px;
+}
+.eigh{
+  margin:0 0 0 144px;
+}
+.eig{
+    margin:-45 0 0 435px;
+    height:30px;
+   width:80px;
+   background-color: #6c757d;
+   border-radius:8px;
+}
+.radio{
+  margin:0 0 0 90px;
+
+}
+.eight{
+    margin:80 0 0 0px;
+}
+.ni{
+  margin:39 0 0 80px;
+}
+.text{
+  margin:-25 0 0 433px;
+}
+.te{
+  margin:-25 0 0 596px;
+}
+.t{
+  margin:-24 0 0 433px;
+  border-radius:8px;
+  height:26px;
+  width:123px;;
+  background-color:#6c757d;
+}
+
+.ten{
+  margin:31 0 0 73px;
+
+}
+.radio1{
+  margin:13 0 0 70px;
+  font-weight:bolder;
+}
+.r1{margin:0 0 0 70px;}
+.e{margin:0 0 0 47px;}
+.el{margin:0 0 0 28px;}
+.ele{margin:0 0 0 72px;}
+.xt{margin:-18 0 0 427px;}
+.x{margin: -22 0 0 589px;}
+.elev{margin:5 0 0 125px;}
+.tex{margin:-23 0 0 349px;}
+.eleve{margin:0 0 0 78px;}
+.eleven{margin:0 0 0 35px;}
+.elevene{margin:0 0 0 20px;}
+.texte{margin:-38 0 0 102px;}
+.tle{margin:-35 0 0 115px;
+    width:100px;}
+.ninee{margin:0 0 0 30px;}
+.twe{margin:-40 0 0 75px;}
+.twel{margin:-40 0 0 75px;}
+.red{width:154px;height:40px;
+background-color:#28a745;
+border-radius:8px;}
